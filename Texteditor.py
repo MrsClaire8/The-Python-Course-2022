@@ -10,5 +10,4 @@ while True:
 
 for tekst in typing:
     tekst.title()
-#print ('. '.join(text.title() for text in typing)+'.')
-print('. '.join(typing))
+print ('. '.join(text.title() for text in typing)+'.')
